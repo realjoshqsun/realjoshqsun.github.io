@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>$name | $affiliation</title>
+  <meta name="description" content="$description">
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="$name | $affiliation">
+  <meta property="og:description" content="$description">
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  $canonical
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/publications.css">
+  <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+<body>
+  <a class="skip-link" href="#about-me">Skip to content</a>
+  <div class="wrapper">
+    <header aria-label="Profile">
+      <div class="portrait"><img src="$avatar" alt="Portrait of $name" width="764" height="764" fetchpriority="high"></div>
+      <h1>$name</h1>
+      <p class="position">$position</p>
+      <p class="affiliation"><a href="$department_url">$department</a><br><a href="$affiliation_url">$affiliation</a></p>
+      $contact
+      <nav class="profile-links" aria-label="Academic profiles">
+        <a href="$scholar_url"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 3 1 9l11 6 9-4.9V17h2V9L12 3ZM5 13v5c3.8 3.6 10.2 3.6 14 0v-5l-7 3.8L5 13Z"/></svg><span>Google Scholar</span></a>
+        <a href="$github_url"><svg aria-hidden="true" viewBox="0 0 24 24"><path d="M12 .8a11.2 11.2 0 0 0-3.54 21.83c.56.1.77-.24.77-.54v-2.17c-3.12.68-3.78-1.32-3.78-1.32-.51-1.3-1.25-1.65-1.25-1.65-1.02-.7.08-.68.08-.68 1.13.08 1.72 1.16 1.72 1.16 1 1.72 2.63 1.22 3.27.93.1-.73.39-1.22.71-1.5-2.49-.28-5.11-1.24-5.11-5.54 0-1.23.44-2.23 1.16-3.02-.12-.28-.5-1.43.11-2.99 0 0 .95-.3 3.08 1.15a10.7 10.7 0 0 1 5.6 0c2.14-1.45 3.08-1.15 3.08-1.15.61 1.56.23 2.71.11 2.99.72.79 1.15 1.79 1.15 3.02 0 4.31-2.62 5.25-5.12 5.53.4.35.76 1.03.76 2.08v3.16c0 .3.2.65.77.54A11.2 11.2 0 0 0 12 .8Z"/></svg><span>GitHub</span></a>
+      </nav>
+    </header>
+    <main>
+      <section aria-labelledby="about-me">
+        <h2 id="about-me">About Me</h2>
+        <p>Hi! I am $name, a Ph.D. candidate in <a href="$department_url">Electrical and Computer Engineering</a> at the <a href="$affiliation_url"><strong>University of Waterloo</strong></a>, advised by Prof. <a href="$advisor_url"><strong>$advisor</strong></a>.</p>
+        <p>I received my M.A.Sc. in Electrical and Computer Engineering from the <a href="$affiliation_url"><strong>University of Waterloo</strong></a> in 2023, also under his supervision, and my B.Eng. in Software Engineering from <strong>Dalian University of Technology</strong> in 2021. I have also worked as a research intern at <strong>Li Auto</strong> and <strong>Kisoji Biotech</strong>.</p>
+        <h2 id="research-interests">Research Interests</h2>
+        <div class="research-interests" aria-labelledby="research-interests">$interests</div>
+        $news
+        <h2 id="publications">Selected Publications</h2>
+        <div class="publications"><ol class="bibliography">$publications</ol></div>
+        <p class="footnote">Built with <a href="https://github.com/yaoyao-liu/minimal-light">Minimal Light</a>.</p>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "name": "Josh Qixuan Sun",
+  "position": "Ph.D. Candidate",
+  "department": "Electrical and Computer Engineering",
+  "affiliation": "University of Waterloo",
+  "affiliation_url": "https://uwaterloo.ca/",
+  "department_url": "https://uwaterloo.ca/electrical-computer-engineering/",
+  "advisor": "Mark Crowley",
+  "advisor_url": "https://markcrowley.ca/",
+  "scholar_url": "https://scholar.google.ca/citations?user=QEpFiMIAAAAJ&hl=en",
+  "github_url": "https://github.com/realjoshqsun",
+  "avatar": "assets/img/avatar-linkedin.jpg",
+  "description": "Josh Qixuan Sun is a Ph.D. candidate in Electrical and Computer Engineering at the University of Waterloo, researching explanation and interpretation of VLAs, robotics and robot learning, and reinforcement and preference learning.",
+  "research_interests": [
+    "Explanation and Interpretation on VLAs",
+    "Robotics & Robot Learning",
+    "Reinforcement & Preference Learning"
+  ],
+  "research_groups": [
+    {
+      "id": "vla-explanation-interpretation",
+      "title": "Explanation and Interpretation on VLAs",
+      "papers": [
+        "landmark",
+        "navbind"
+      ]
+    },
+    {
+      "id": "robot-learning",
+      "title": "Robotics & Robot Learning",
+      "papers": [
+        "vil",
+        "hygiene"
+      ]
+    },
+    {
+      "id": "reinforcement-preference-learning",
+      "title": "Reinforcement & Preference Learning",
+      "papers": [
+        "antibody"
+      ]
+    }
+  ],
+  "email": null,
+  "cv_url": null,
+  "canonical_url": "https://realjoshqsun.github.io/",
+  "news": [
+    {
+      "date": "2026-10",
+      "text": "Our paper LandMarkVLN was accepted to WACV 2027."
+    },
+    {
+      "date": "2026-06",
+      "text": "Received the STAR Award (formerly the Faculty of Engineering Award)."
+    },
+    {
+      "date": "2026-05",
+      "text": "Our paper on preference-based antibody expression ranking was accepted to ICML 2026."
+    },
+    {
+      "date": "2026-04",
+      "text": "Received the University of Waterloo’s Graduate Student Research Dissemination Award (GSRDA)."
+    },
+    {
+      "date": "2026-03",
+      "text": "Passed my Ph.D. comprehensive proposal examination and advanced to Ph.D. candidacy."
+    },
+    {
+      "date": "2025-12",
+      "text": "Our paper VIL was accepted to IEEE Robotics and Automation Letters (RA-L)."
+    }
+  ],
+  "awards": [],
+  "experience": [],
+  "teaching": [],
+  "service": []
+}

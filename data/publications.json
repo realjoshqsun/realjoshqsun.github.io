@@ -1,0 +1,120 @@
+[
+  {
+    "id": "navbind",
+    "research_label": "NavBind · arXiv26",
+    "title": "NavBind: Diagnosing Instruction-Action Binding at Route Forks in Navigation VLAs",
+    "authors": [
+      "Josh Qixuan Sun",
+      "Xiaoying Xing",
+      "Yurun Chen",
+      "Huaiyuan Weng",
+      "Wentao Zhu",
+      "Mark Crowley"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint",
+    "badge": "arXiv 2026",
+    "url": "https://arxiv.org/abs/2610.29203",
+    "pdf": "https://arxiv.org/pdf/2610.29203",
+    "code": null,
+    "page": null,
+    "bibtex": "assets/bib/navbind.bib",
+    "image": "assets/img/publications/navbind.png",
+    "notes": "",
+    "arxiv_submitted_date": "2026-10-21"
+  },
+  {
+    "id": "hygiene",
+    "research_label": "HygieneRoboBench · arXiv26",
+    "title": "HygieneRoboBench: Benchmarking Hygiene-Aware Planning for Household Robots",
+    "authors": [
+      "Yurun Chen",
+      "Josh Qixuan Sun",
+      "Jason Qin",
+      "Chengtai Li",
+      "Tianyi Wang",
+      "Mark Crowley",
+      "Wentao Zhu"
+    ],
+    "year": 2026,
+    "venue": "arXiv preprint",
+    "badge": "arXiv 2026",
+    "url": "https://arxiv.org/abs/2610.08642",
+    "pdf": "https://arxiv.org/pdf/2610.08642",
+    "code": null,
+    "page": "https://euron-zc.github.io/HygieneRoboBench/",
+    "bibtex": "assets/bib/hygiene.bib",
+    "image": "assets/img/publications/hygiene.png",
+    "notes": "",
+    "arxiv_submitted_date": "2026-10-06"
+  },
+  {
+    "id": "landmark",
+    "research_label": "LandMarkVLN · WACV27",
+    "title": "Do Navigation VLA Models Ground What They Are Told? An Empirical Audit of Landmark-Vision Alignment in VLN",
+    "authors": [
+      "Josh Qixuan Sun",
+      "Xiaoying Xing",
+      "Yurun Chen",
+      "Huaiyuan Weng",
+      "Wentao Zhu",
+      "Mark Crowley"
+    ],
+    "year": 2027,
+    "venue": "Winter Conference on Applications of Computer Vision",
+    "badge": "WACV 2027",
+    "url": null,
+    "pdf": null,
+    "code": null,
+    "page": null,
+    "bibtex": "assets/bib/landmark.bib",
+    "image": "assets/img/publications/landmark.png",
+    "notes": ""
+  },
+  {
+    "id": "antibody",
+    "research_label": "Antibody Ranking · ICML26",
+    "title": "Preference-based Antibody Expression Ranking: Scaling with Large-scale Weak Supervision",
+    "authors": [
+      "Josh Qixuan Sun",
+      "Morteza Babaie",
+      "Wenyang Hou",
+      "Mark Crowley",
+      "David Young"
+    ],
+    "year": 2026,
+    "venue": "Proceedings of the 43rd International Conference on Machine Learning",
+    "badge": "ICML 2026",
+    "url": "https://proceedings.mlr.press/v306/sun26a.html",
+    "pdf": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/sun26a/sun26a.pdf",
+    "code": null,
+    "page": "https://realjoshqsun.github.io/Preference-Expression-Ranking/",
+    "bibtex": "assets/bib/antibody.bib",
+    "image": "assets/img/publications/antibody.png",
+    "notes": "",
+    "arxiv_submitted_date": "2026-06-29"
+  },
+  {
+    "id": "vil",
+    "research_label": "VIL · RA-L26",
+    "title": "View Invariant Learning for Vision-Language Navigation in Continuous Environments",
+    "authors": [
+      "Josh Qixuan Sun",
+      "Huaiyuan Weng",
+      "Xiaoying Xing",
+      "Chul Min Yeum",
+      "Mark Crowley"
+    ],
+    "year": 2026,
+    "venue": "IEEE Robotics and Automation Letters",
+    "badge": "RA-L 2026",
+    "url": "https://ieeexplore.ieee.org/abstract/document/11419772",
+    "pdf": "https://arxiv.org/pdf/2507.08831",
+    "code": "https://github.com/realjoshqsun/V2-VLNCE",
+    "page": "https://realjoshqsun.github.io/V2-VLNCE/",
+    "bibtex": "assets/bib/vil.bib",
+    "image": "assets/img/publications/vil.png",
+    "notes": "Presented at IROS 2026",
+    "arxiv_submitted_date": "2025-07-05"
+  }
+]
