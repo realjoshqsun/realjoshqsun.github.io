@@ -63,10 +63,10 @@
     "year": 2027,
     "venue": "Winter Conference on Applications of Computer Vision",
     "badge": "WACV 2027",
-    "url": null,
+    "url": "https://realjoshqsun.github.io/landmark-vln/",
     "pdf": null,
     "code": null,
-    "page": null,
+    "page": "https://realjoshqsun.github.io/landmark-vln/",
     "bibtex": "assets/bib/landmark.bib",
     "image": "assets/img/publications/landmark.png",
     "notes": ""
